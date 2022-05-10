@@ -1,0 +1,6 @@
+{
+    "name":"Pica",
+    "cod":"30",
+    "amount":90,
+    "price":2 
+}
